@@ -1,0 +1,9 @@
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.c
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.h
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+lvgl_stm32f103rct6_ili9488\qrcodegen.o: D:\APP\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
