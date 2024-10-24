@@ -1,6 +1,7 @@
 3.5寸触摸屏 XPT2046电阻触摸屏 STM32F103RCT6 HAL
 模拟SPI  最高33FPS 480*320分辨率
-//本模块默认数据总线类型为SPI总线 // LCD模块 STM32单片机
+//本模块默认数据总线类型为SPI总线 
+// LCD模块 STM32单片机
 // SDI(MOSI) 接 PB15
 // SDO(MISO) 接 PB14
 // LED 接 PB9
